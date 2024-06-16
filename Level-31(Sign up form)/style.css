@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+form{
+    display: inline-block;
+    padding: 30px 50px;
+    border-radius: 20px;
+    background-color: rgb(80, 80, 133);
+    color: rgb(188, 187, 187);
+    margin-top: 25vh;
+}
+
+input{
+    background-color: rgb(172, 170, 170);
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 115px
+}
+
+h1{
+    margin-bottom: 10px;
+}
+#submit{
+    background-color: blue;
+    padding: 10px 115px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 50px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
